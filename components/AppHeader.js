@@ -51,7 +51,7 @@ const NavSkipLink = styled.a`
 `
 
 export function AppHeader() {
-  const logo = '/images/tina-logo.svg'
+  const logo = '/images/qx.svg'
 
   return (
     <OuterHeader>

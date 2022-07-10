@@ -5,7 +5,7 @@ const siteMetadata = {
   socialImage: "/images/social.jpg",
   navItems: [{ title: "Docs", url: "/docs/" }],
   twitterAccount: "ronbronson",
-  siteUrl: "https://qx-tina.vercel.app/docs/grey-spaces/",
+  siteUrl: "https://qx-tina.vercel.app/",
   author: "Ron B",
 };
 

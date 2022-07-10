@@ -8,7 +8,7 @@ return(
       <Article style={{ textAlign: 'center'}}>
         <h1>404</h1>
         <p>
-          We couldn’t find what you were looking for.
+          Nope, not here.
         </p>
         <div style={{display: "flex", justifyContent:"center"}}>
           <img
@@ -18,8 +18,7 @@ return(
           />
         </div>
         <p style={{ textAlign: 'center', margin: '20px auto'  }}>
-          Please contact the owner of the site that linked you to the original
-          URL and let them know their link is broken.
+          Not sure what you're looking for! 
         </p>
       </Article>
     </ScreenContainer>
