@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: "Tina Docs Example",
-  description: "Power your docs with Tina + MDX",
-  githubRepositoryURL: "https://github.com/tinacms/tina-docs-example",
+  title: "Consequence Design",
+  description: "Rough notes on the topic",
+  githubRepositoryURL: "https://github.com/quarterback",
   socialImage: "/images/social.jpg",
   navItems: [{ title: "Docs", url: "/docs/" }],
-  twitterAccount: "tina_cms",
-  siteUrl: "https://tina.io",
-  author: "TinaCMS",
+  twitterAccount: "ronbronson",
+  siteUrl: "https://qx-tina.vercel.app/docs/grey-spaces/",
+  author: "Ron B",
 };
 
 export default siteMetadata;
