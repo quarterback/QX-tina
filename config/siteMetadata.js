@@ -3,7 +3,7 @@ const siteMetadata = {
   description: "Rough notes on the topic",
   githubRepositoryURL: "https://github.com/quarterback",
   socialImage: "/images/social.jpg",
-  navItems: [{ title: "Docs", url: "/docs/" }],
+  navItems: [{ title: "Notes", url: "/docs/" }],
   twitterAccount: "ronbronson",
   siteUrl: "https://qx-tina.vercel.app/",
   author: "Ron B",
